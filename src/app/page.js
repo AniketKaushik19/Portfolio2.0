@@ -2,6 +2,7 @@
 import Navbar from "./Components/Navbar"
 import Hero from "./Components/Hero"
 import About from "./Components/About"
+import Certificates from "./Components/Certificates"
 import ContactForm from "./Components/ContactForm"
 import Footer from "./Components/Footer"
 import Projects from "./Components/Projects"
@@ -29,6 +30,7 @@ export default function Home() {
         </div>
       </section>
       <About />
+      <Certificates />
       <ContactForm />
       <Footer />
     </>

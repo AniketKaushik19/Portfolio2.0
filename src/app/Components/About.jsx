@@ -72,7 +72,7 @@ export default function About() {
             transition={{ duration: 0.8 }}
             className="order-1 md:order-2 flex justify-center"
           >
-            <img src="/profile.png" alt="Aniket Kaushik" className="w-100 h-100 md:w-200 rounded-xl object-cover  shadow-lg" />
+            <img src="/profile.png" alt="Aniket Kaushik" className="w-100 h-100 md:w-200 md:h-180 rounded-xl object-cover  shadow-lg" />
           </motion.div>
         </div>
       </div>
